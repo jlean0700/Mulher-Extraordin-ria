@@ -101,12 +101,12 @@ section.imagem p {
 }
 
 section#img01 {
-    background-image: url(../imagens/amanda1.jpg);
+    background-image: url(../imagens/amanda2.jpg);
     background-position: center;
 }
 
 section#img02 {
-    background-image: url(../imagens/amanda2.jpg);
+    background-image: url(../imagens/amanda1.jpg);
     
 }
 
