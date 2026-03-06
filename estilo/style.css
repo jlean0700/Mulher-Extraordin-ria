@@ -45,6 +45,7 @@ header {
 
 header > h1 {
     padding-top: 50px;
+    padding-bottom: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 10vw;
@@ -53,7 +54,6 @@ header > h1 {
 
 header > p {
     padding-bottom: 50px;
-    
 }
 
 header a, footer a {
@@ -101,17 +101,17 @@ section.imagem p {
 }
 
 section#img01 {
-    background-image: url(../imagens/thais1.jpg);
+    background-image: url(../imagens/amanda1.jpg);
     background-position: center;
 }
 
 section#img02 {
-    background-image: url(../imagens/thais2.jpg);
+    background-image: url(../imagens/amanda2.jpg);
     
 }
 
 section#img03 {
-    background-image: url(../imagens/thais4.jpg);
+    background-image: url(../imagens/amanda3.jpg);
     background-position: center;
 }
 
