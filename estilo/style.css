@@ -87,7 +87,7 @@ section.normal {
 }
 
 img {
-    width: 100vw;
+    width: 97vw;
     height: 100vh;
 }
 
@@ -97,7 +97,7 @@ section.imagem {
     background-size: cover;
     background-attachment: fixed;
     box-shadow: inset 6px 6px 13px rgba(0, 0, 0, 0.514);
-    padding-bottom: 60vh;
+    padding-bottom: 10vh;
 }
 
 section.imagem p {
@@ -114,7 +114,7 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url(../imagens/amanda1.jpg);
+    background-image: url(../imagens/amanda4.jpg);
     
     
 }
