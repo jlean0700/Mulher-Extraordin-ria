@@ -115,12 +115,13 @@ section#img01 {
 
 section#img02 {
     background-image: url(../imagens/amanda4.jpg);
-    
+    background-position: center;
     
 }
 
 section#img03 {
     background-image: url(../imagens/amanda3.jpg);
+    background-position: center;
 }
 
 .footer-elite {
